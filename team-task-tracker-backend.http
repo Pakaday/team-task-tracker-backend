@@ -1,0 +1,6 @@
+@team_task_tracker_backend_HostAddress = http://localhost:5022
+
+GET {{team_task_tracker_backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
